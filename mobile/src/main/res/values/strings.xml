@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeathApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name_hint">First Name</string>
+
+
+</resources>
